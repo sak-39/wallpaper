@@ -21,6 +21,22 @@ rundll32.exe user32.dll,UpdatePerUserSystemParameters 1, True
 rundll32.exe user32.dll,UpdatePerUserSystemParameters 1, True
 rundll32.exe user32.dll,UpdatePerUserSystemParameters 1, True
 rundll32.exe user32.dll,UpdatePerUserSystemParameters 1, True
+rundll32.exe user32.dll,UpdatePerUserSystemParameters 1, True
+rundll32.exe user32.dll,UpdatePerUserSystemParameters 1, True
+rundll32.exe user32.dll,UpdatePerUserSystemParameters 1, True
+rundll32.exe user32.dll,UpdatePerUserSystemParameters 1, True
+rundll32.exe user32.dll,UpdatePerUserSystemParameters 1, True
+rundll32.exe user32.dll,UpdatePerUserSystemParameters 1, True
+rundll32.exe user32.dll,UpdatePerUserSystemParameters 1, True
+rundll32.exe user32.dll,UpdatePerUserSystemParameters 1, True
+rundll32.exe user32.dll,UpdatePerUserSystemParameters 1, True
+rundll32.exe user32.dll,UpdatePerUserSystemParameters 1, True
+rundll32.exe user32.dll,UpdatePerUserSystemParameters 1, True
+rundll32.exe user32.dll,UpdatePerUserSystemParameters 1, True
+rundll32.exe user32.dll,UpdatePerUserSystemParameters 1, True
+rundll32.exe user32.dll,UpdatePerUserSystemParameters 1, True
+rundll32.exe user32.dll,UpdatePerUserSystemParameters 1, True
+
 
 
 # コンソールに壁紙に設定した画像のファイル名を出力する。 
